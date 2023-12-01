@@ -1,7 +1,7 @@
 html {
-    background: #033a29;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #dee3e8, #bbf10a);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #f95b5b, #b4cf2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #050505, #536402);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right,  #050505, #536402); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     
 }
 
@@ -27,7 +27,7 @@ html {
     margin: 0 auto;
     width: 15%;
     height: 15%;
-    background-color: white;
+    background-color: rgb(5, 4, 4);
     border-radius: 100%;
     -webkit-animation: sk-circleFadeDelay 1.2s infinite ease-in-out both;
             animation: sk-circleFadeDelay 1.2s infinite ease-in-out both;
